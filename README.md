@@ -1,4 +1,4 @@
-# React + TypeScript + Vite
+# Alt + 右击 打开vscode定位代码
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
